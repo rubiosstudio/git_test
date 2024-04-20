@@ -1,0 +1,1 @@
+About to do my second commit using git, isn't this a neat trick?
